@@ -1,6 +1,10 @@
 ChangeLog
 ==========
 
+version 1.1.5 (released 2023-08-08)
+  * Fixed building with Python 3.12
+  * Removed Python 2 support
+
 version 1.1.4 (released 2020-10-28)
   * NOTE: pam_wrapper stopped working with the latest OpenPAM on FreeBSD 12.
     Help is needed to add back support.
