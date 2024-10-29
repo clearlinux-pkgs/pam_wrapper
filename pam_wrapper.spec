@@ -9,7 +9,7 @@
 #
 Name     : pam_wrapper
 Version  : 1.1.7
-Release  : 5
+Release  : 6
 URL      : https://ftp.samba.org/pub/cwrap/pam_wrapper-1.1.7.tar.gz
 Source0  : https://ftp.samba.org/pub/cwrap/pam_wrapper-1.1.7.tar.gz
 Source1  : https://ftp.samba.org/pub/cwrap/pam_wrapper-1.1.7.tar.gz.asc
